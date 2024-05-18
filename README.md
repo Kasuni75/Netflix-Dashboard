@@ -1,3 +1,5 @@
+NETFLIX Dashboard using Tableau and MS Excel
+
 Creating a Netflix dashboard using Tableau is an excellent way to analyze and visualize data related to movies and TV shows. Concise description for Netflix dashboard:
 1.	Total Movies & Shows by Year: Visualize the trend of movie and show releases over time. You can use a line or bar chart to display the number of titles added each year.
 2.	Top 10 Genres: Identify the most popular genres on Netflix. Create a bar chart or pie chart showing the distribution of genres based on the number of titles. 
